@@ -2,7 +2,7 @@
 # Proyecto: K9-Locate & Care
 # Archivo: mqtt_bridge.py
 # Objetivo: Suscribirse a los topicos MQTT del proyecto e imprimir lecturas en consola
-# Equipo: Monserrat Lagos Guerrero, Ian Alberto Vargas Martínez (Colocar matrículas)
+# Equipo: Monserrat Lagos Guerrero 23240348, Ian Alberto Vargas Martínez- 23240371
 # Materia: Sistemas Programables — ISC TecNM León
 # Semestre: ago-dic-2026
 # ============================================
